@@ -1,0 +1,72 @@
+/*
+Website Name: Country Details
+Author: Md Hasan Mia || Hasanmiaweb
+Author URI: http://www.hasanmiaweb.com
+*/
+.bg-light {
+  background-color: #2dbbff !important;
+}
+.navbar-light .navbar-brand {
+  font-size: 24px;
+  font-weight: 800;
+  color: white;
+  font-family: revert;
+}
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand:hover {
+  color: white;
+  border: none;
+  outline: none;
+}
+.navbar-nav .nav-item .nav-link {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: white;
+}
+.navbar-nav .nav-item .nav-link {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+/*Main Menu end*/
+#sliderMainSection {
+  background-image: linear-gradient(to right, #2dbbff17, #df7e9459),
+    url(../images/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.slidertext h2 {
+  text-align: center;
+  color: white;
+  font-size: 40px;
+  font-family: revert;
+  text-shadow: 11px 10px 15px black;
+}
+
+.slidertext {
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+.slidertext h4 {
+  text-shadow: 10px 10px 10px #698e71;
+  color: #4f4f4f;
+}
+
+#sliderBtn {
+  padding-top: 20px;
+  background: #ffffff8c;
+  color: #808080;
+  padding: 10px 40px;
+  font-size: 20px;
+  font-weight: 800;
+  border: 2px solid white;
+  border-radius: 10px;
+  outline: none;
+}
