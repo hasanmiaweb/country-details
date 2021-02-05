@@ -56,17 +56,17 @@ Author URI: http://www.hasanmiaweb.com
 
 .slidertext h4 {
   text-shadow: 10px 10px 10px #698e71;
-  color: #4f4f4f;
+  color: white;
 }
 
 #sliderBtn {
   padding-top: 20px;
-  background: #ffffff8c;
-  color: #808080;
-  padding: 10px 40px;
+  background: #2dbbff42;
+  color: #ffffff;
+  padding: 10px 80px;
   font-size: 20px;
   font-weight: 800;
-  border: 2px solid white;
+  border: 2px solid #2dbbff;
   border-radius: 10px;
   outline: none;
 }
